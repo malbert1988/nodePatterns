@@ -9,6 +9,7 @@
   "author": "Martin Gallegos",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "should": "^13.2.1"
   }
 }
